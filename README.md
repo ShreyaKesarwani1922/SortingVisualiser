@@ -18,6 +18,8 @@ Welcome to the Sorting Visualiser project! This web application helps users unde
 ## Deployed Link
 [Link](https://shreyakesarwani1922.github.io/SortingVisualiser/#)
 
+![Image](Image.png)
+
 ## Usage
 
 1. **Select an Algorithm**: Choose a sorting algorithm from the dropdown menu.
